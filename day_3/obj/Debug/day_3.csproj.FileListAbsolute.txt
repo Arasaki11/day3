@@ -1,0 +1,7 @@
+D:\практика\day_3\day_3\bin\Debug\day_3.exe.config
+D:\практика\day_3\day_3\bin\Debug\day_3.exe
+D:\практика\day_3\day_3\bin\Debug\day_3.pdb
+D:\практика\day_3\day_3\obj\Debug\day_3.csproj.AssemblyReference.cache
+D:\практика\day_3\day_3\obj\Debug\day_3.csproj.CoreCompileInputs.cache
+D:\практика\day_3\day_3\obj\Debug\day_3.exe
+D:\практика\day_3\day_3\obj\Debug\day_3.pdb
